@@ -1,6 +1,6 @@
 <img align="left" alt="Coding" width="500" src=https://github.com/fauzanheryka/Data_Connector/assets/141212116/d2b45cad-f467-4e75-b3a8-f401f79e31b0>
 <h1 align="center">Hi 👋, I'm Mohd Fauzan Heryka Putra</h1>
-<h3 align="center">A passionate Data Data Enthusiast | Data Analyst | Data Science | Business Intelligence</h3>
+<h3 align="center">A passionate Data Enthusiast | Data Analyst | Data Science | Business Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzanheryka&label=Profile%20views&color=0e75b6&style=flat" alt="fauzanheryka" /> </p>
 
