@@ -1,18 +1,18 @@
-![isometric-machine-learning-for-artificial-intelligence-1](https://github.com/fauzanheryka/Data_Connector/assets/141212116/35a96e3f-8ae4-474f-b89e-79bcbf1d5847)
-
+<img align="left" alt="Coding" width="500" src=https://github.com/fauzanheryka/Data_Connector/assets/141212116/d2b45cad-f467-4e75-b3a8-f401f79e31b0>
 <h1 align="center">Hi 👋, I'm Mohd Fauzan Heryka Putra</h1>
-<h3 align="center">A passionateData Data Enthusiast | Data Analyst | Data Science | Business Intelligence</h3>
-<img align="right" alt="Coding" width="400" src= https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif>
+<h3 align="center">A passionate Data Data Enthusiast | Data Analyst | Data Science | Business Intelligence</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzanheryka&label=Profile%20views&color=0e75b6&style=flat" alt="fauzanheryka" /> </p>
 
 
 - 🌱 I’m currently learning **Data Science Bootcamp in Rakamin Academy**
 
 - 💬 Ask me about **Data Analyst, Data Science**
-
+- 👨‍💻 All of my projects are available at [eee](eee)
 - 📄 Know about my experiences [Please Click Here](https://drive.google.com/file/d/1dcGEsaYMl7YV-4y57TlDj5VSVRuGNFQi/view?usp=sharing)
 - 📫 How to reach me **fauzanheryka402@gmail.com**
 - ⚡ Fun fact **I think im passionate**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
