@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Data Science Bootcamp in Rakamin Academy**
 
 - 💬 Ask me about **Data Analyst, Data Science**
-- 👨‍💻 All of my projects are available at [eee](eee)
+- 👨‍💻 All of my projects are available at [Here, kindly to Check it ](https://github.com/fauzanheryka/Project-Portofolio#python-data-analysis-and-machine-learning)
 - 📄 Know about my experiences [Please Click Here](https://drive.google.com/file/d/1dcGEsaYMl7YV-4y57TlDj5VSVRuGNFQi/view?usp=sharing)
 - 📫 How to reach me **fauzanheryka402@gmail.com**
 - ⚡ Fun fact **I think im passionate :D**
