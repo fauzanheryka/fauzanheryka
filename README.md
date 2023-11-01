@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [eee](eee)
 - 📄 Know about my experiences [Please Click Here](https://drive.google.com/file/d/1dcGEsaYMl7YV-4y57TlDj5VSVRuGNFQi/view?usp=sharing)
 - 📫 How to reach me **fauzanheryka402@gmail.com**
-- ⚡ Fun fact **I think im passionate**
+- ⚡ Fun fact **I think im passionate :D**
 <br>
 
 <h3 align="left">Connect with me:</h3>
