@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Analyst, Data Science**
 - 👨‍💻 All of my projects are available at [Here, kindly to Check it ](https://github.com/fauzanheryka/Project-Portofolio#python-data-analysis-and-machine-learning)
-- 📄 Know about my resume [kindly to Click Here](https://drive.google.com/file/d/1dcGEsaYMl7YV-4y57TlDj5VSVRuGNFQi/view?usp=sharing)
+- 📄 Know about my resume [kindly to Click Here](https://drive.google.com/file/d/194u0FGqAgM282Mca-ah3N_fkSwKDcgH0/view?usp=drive_link)
 - 📫 How to reach me **fauzanheryka402@gmail.com**
 - ⚡ Fun fact **I think im passionate :D**
 
